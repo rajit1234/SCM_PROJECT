@@ -14,6 +14,7 @@
 #include <iostream>
 using namespace std;
    
+
 int main(){
     int input[100], count, i, num;
        
